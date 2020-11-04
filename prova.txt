@@ -1,2 +1,4 @@
 escribim una linia de prova
 afegim text després de cambiar de branch1. estem a main
+aquest text está escrit des de la branch1
+
